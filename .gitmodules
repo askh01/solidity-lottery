@@ -1,0 +1,3 @@
+[submodule "scaffold-eth-2"]
+	path = scaffold-eth-2
+	url = https://github.com/askh01/solidity-lottery.git
